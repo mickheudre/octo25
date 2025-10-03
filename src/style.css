@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'Bluu Next';
+    src: url('bluunext-bold-webfont.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
