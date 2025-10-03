@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'Chomsky';
+    src: url('Chomsky.woff2') format('woff2');
+}
+
+@theme {
+--font-brand: "Chomsky", "serif";
+}
